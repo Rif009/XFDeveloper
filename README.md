@@ -31,7 +31,7 @@
 ------------
 - [Xamarin Developers - канал разработчиков xamarin](https://www.youtube.com/c/XamarinDevelopers/videos "Xamarin Developers - канал разработчиков xamarin")
 
-**Познавательные сайты/статьи **
+**Познавательные сайты/статьи**
 ------------
 
 - [Что такое XML](https://habr.com/ru/post/524288/ "Что такое XML")

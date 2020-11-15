@@ -38,3 +38,5 @@
 - [Что такое XML](https://habr.com/ru/post/524288/ "Что такое XML")
 - [XPATH + XML = быстрая обработка](https://habr.com/ru/post/526774/ "XPATH + XML = быстрая обработка")
 - [Xamgirl.com - Блог посвященный разработке на xamarin ](http://xamgirl.com "Xamgirl.com - Блог посвященный разработке на xamarin")
+- [Как устроен билд APK файла внутри ](https://habr.com/ru/post/527584/ "Как устроен билд APK файла внутри")
+

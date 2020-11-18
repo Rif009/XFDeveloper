@@ -31,6 +31,7 @@
 **Познавательные Youtube каналы/видео**
 ------------
 - [Xamarin Developers - канал разработчиков xamarin](https://www.youtube.com/c/XamarinDevelopers/videos "Xamarin Developers - канал разработчиков xamarin")
+- [dotNET - Канал посвященный обновлениям dotnet](https://www.youtube.com/c/dotNET/videos "dotNET - Канал посвященный обновлениям dotnet")
 
 **Познавательные сайты/статьи**
 ------------

@@ -5,6 +5,7 @@
 **Learning**
 ------------
 - [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/ "Руководство по программированию для Xamarin Forms")
+- [MICROSOFT LEARN уроки с примерами](https://docs.microsoft.com/ru-ru/learn/browse/?expanded=dotnet&products=dotnet "MICROSOFT LEARN уроки с примерами")
 
 **C#**
 ------------
@@ -40,4 +41,5 @@
 - [XPATH + XML = быстрая обработка](https://habr.com/ru/post/526774/ "XPATH + XML = быстрая обработка")
 - [Xamgirl.com - Блог посвященный разработке на xamarin ](http://xamgirl.com "Xamgirl.com - Блог посвященный разработке на xamarin")
 - [Как устроен билд APK файла внутри ](https://habr.com/ru/post/527584/ "Как устроен билд APK файла внутри")
+- [iOS 14 Widgets with Xamarin Forms](https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638 "iOS 14 Widgets with Xamarin Forms")
 

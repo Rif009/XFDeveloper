@@ -23,6 +23,7 @@
 - [XamarinCommunityToolkit - сборка готовых компонентов/расширений и тп.](https://github.com/xamarin/XamarinCommunityToolkit "XamarinCommunityToolkit - сборка готовых компонентов/расширений и тп.")
 - [Awesome xamarin forms - список полезных библиотек и ресурсов на гитахабе](https://github.com/jsuarezruiz/awesome-xamarin-forms "Awesome xamarin forms - список полезных библиотек и ресурсов на гитахабе")
 - [ResizetizerNT - автоматическое изменение размеров svg & png  для любого разрешения](https://github.com/Redth/ResizetizerNT "ResizetizerNT - автоматическое изменение размеров svg & png  для любого разрешения")
+- [AiForms.Dialogs - набор настраиваемых диалоговых окон](https://github.com/muak/AiForms.Dialogs "AiForms.Dialogs - набор настраиваемых диалоговых окон")
 
 **Tools**
 ------------

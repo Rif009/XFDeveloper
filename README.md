@@ -44,5 +44,5 @@
 - [Xamgirl.com - Блог посвященный разработке на xamarin ](http://xamgirl.com "Xamgirl.com - Блог посвященный разработке на xamarin")
 - [Как устроен билд APK файла внутри ](https://habr.com/ru/post/527584/ "Как устроен билд APK файла внутри")
 - [iOS 14 Widgets with Xamarin Forms](https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638 "iOS 14 Widgets with Xamarin Forms")
-- 
+- [Отображение всплывающих подсказок в Xamarin Forms](https://www.xamboy.com/2019/03/01/showing-tooltips-in-xamarin-forms/ "Showing tooltips in Xamarin Forms")
 

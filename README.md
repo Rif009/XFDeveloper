@@ -24,6 +24,7 @@
 - [Awesome xamarin forms - список полезных библиотек и ресурсов на гитахабе](https://github.com/jsuarezruiz/awesome-xamarin-forms "Awesome xamarin forms - список полезных библиотек и ресурсов на гитахабе")
 - [ResizetizerNT - автоматическое изменение размеров svg & png  для любого разрешения](https://github.com/Redth/ResizetizerNT "ResizetizerNT - автоматическое изменение размеров svg & png  для любого разрешения")
 - [AiForms.Dialogs - набор настраиваемых диалоговых окон](https://github.com/muak/AiForms.Dialogs "AiForms.Dialogs - набор настраиваемых диалоговых окон")
+- [Shiny - плагин для фоновой обработки и аппаратных служб устройства](https://github.com/shinyorg/shiny "Shiny - плагин для фоновой обработки и аппаратных служб устройства")
 
 **Tools**
 ------------
@@ -43,4 +44,5 @@
 - [Xamgirl.com - Блог посвященный разработке на xamarin ](http://xamgirl.com "Xamgirl.com - Блог посвященный разработке на xamarin")
 - [Как устроен билд APK файла внутри ](https://habr.com/ru/post/527584/ "Как устроен билд APK файла внутри")
 - [iOS 14 Widgets with Xamarin Forms](https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638 "iOS 14 Widgets with Xamarin Forms")
+- 
 

@@ -11,6 +11,7 @@
 ------------
 - [Про новинки в .NET 5 и C# 9.0](https://habr.com/ru/post/523552/ "Про новинки в .NET 5 и C# 9.0")
 - [C# 8 и null-допустимость. Как нам с этим жить](https://habr.com/ru/company/piter/blog/501520/ "C# 8 и null-допустимость. Как нам с этим жить")
+- [Для бенчмарков кода](https://github.com/dotnet/BenchmarkDotNet "Для бенчмарков кода")
 
 **Xaml**
 ------------
@@ -36,6 +37,7 @@
 ------------
 - [Xamarin Developers - канал разработчиков xamarin](https://www.youtube.com/c/XamarinDevelopers/videos "Xamarin Developers - канал разработчиков xamarin")
 - [dotNET - Канал посвященный обновлениям dotnet](https://www.youtube.com/c/dotNET/videos "dotNET - Канал посвященный обновлениям dotnet")
+- [60 секундные туториалы по xamarin forms](https://www.youtube.com/playlist?list=PLrkKvY7K4dLWNQQlJAlf6CgVt5hDtU4Xb "60 секундные туториалы по xamarin forms")
 
 **Познавательные сайты/статьи**
 ------------
@@ -46,4 +48,6 @@
 - [Как устроен билд APK файла внутри ](https://habr.com/ru/post/527584/ "Как устроен билд APK файла внутри")
 - [iOS 14 Widgets with Xamarin Forms](https://medium.com/@michaeldimoudis/ios-14-widgets-with-xamarin-forms-e186d24a0638 "iOS 14 Widgets with Xamarin Forms")
 - [Отображение всплывающих подсказок в Xamarin Forms](https://www.xamboy.com/2019/03/01/showing-tooltips-in-xamarin-forms/ "Showing tooltips in Xamarin Forms")
+- [Понятнее о S.O.L.I.D](https://habr.com/ru/post/508086/ "Понятнее о S.O.L.I.D")
+
 

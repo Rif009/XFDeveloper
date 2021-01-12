@@ -15,6 +15,7 @@
 
 **Xaml**
 ------------
+[Рисуем UI в Xamarin.Forms с помощью Shapes и Paths](https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/?WT.mc_id=docs-blog-daortin)
 
 **Library**
 ------------

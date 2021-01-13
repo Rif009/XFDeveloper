@@ -15,7 +15,7 @@
 
 **Xaml**
 ------------
-[Рисуем UI в Xamarin.Forms с помощью Shapes и Paths](https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/?WT.mc_id=docs-blog-daortin)
+- [Рисуем UI в Xamarin.Forms с помощью Shapes и Paths](https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/?WT.mc_id=docs-blog-daortin)
 
 **Library**
 ------------
@@ -28,6 +28,7 @@
 - [ResizetizerNT - автоматическое изменение размеров svg & png  для любого разрешения](https://github.com/Redth/ResizetizerNT "ResizetizerNT - автоматическое изменение размеров svg & png  для любого разрешения")
 - [AiForms.Dialogs - набор настраиваемых диалоговых окон](https://github.com/muak/AiForms.Dialogs "AiForms.Dialogs - набор настраиваемых диалоговых окон")
 - [Shiny - плагин для фоновой обработки и аппаратных служб устройства](https://github.com/shinyorg/shiny "Shiny - плагин для фоновой обработки и аппаратных служб устройства")
+- [Кастомные тени](https://github.com/roubachof/Sharpnado.Shadows)
 
 **Tools**
 ------------

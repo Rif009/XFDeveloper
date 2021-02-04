@@ -6,6 +6,7 @@
 ------------
 - [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/ "Руководство по программированию для Xamarin Forms")
 - [MICROSOFT LEARN уроки с примерами](https://docs.microsoft.com/ru-ru/learn/browse/?expanded=dotnet&products=dotnet "MICROSOFT LEARN уроки с примерами")
+- [Xamarin.Forms 5.0 уже здесь, уже доступен](https://habr.com/ru/company/microsoft/blog/536876/)
 
 **C#**
 ------------

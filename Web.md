@@ -18,6 +18,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Awesome Blazor ](https://github.com/AdrienTorris/awesome-blazor)
 * [Создание веб-приложения с помощью Blazor WebAssembly и Visual Studio Code](https://docs.microsoft.com/ru-ru/learn/modules/build-blazor-webassembly-visual-studio-code/)
 * [Улучшения нового редактора Razor в Visual Studio](https://habr.com/ru/company/microsoft/blog/539514/)
+* [CRUD на blazor с entity framework core](https://codewithmukesh.com/blog/blazor-crud-with-entity-framework-core/)
 
 
 **Library**
@@ -32,7 +33,8 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 ------------
 * [Учебник. Создание веб-API с помощью ASP.NET Core](https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
 * [Документация по ASP.NET](https://docs.microsoft.com/ru-ru/aspnet/core/?view=aspnetcore-5.0)
-
+* [Разница между AddTransient, AddScoped и AddSingleton в ASP.NET Core](https://habr.com/ru/company/otus/blog/539762/)
+* [Шаблон издателя и подписчика](https://docs.microsoft.com/ru-ru/azure/architecture/patterns/publisher-subscriber)
 
 **Library**
 ------------
@@ -49,11 +51,5 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 
 
 
-
-**Статьи**
-------------
-
-* [Разница между AddTransient, AddScoped и AddSingleton в ASP.NET Core](https://habr.com/ru/company/otus/blog/539762/)
-* [Шаблон издателя и подписчика](https://docs.microsoft.com/ru-ru/azure/architecture/patterns/publisher-subscriber)
 
 

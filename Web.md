@@ -19,6 +19,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Создание веб-приложения с помощью Blazor WebAssembly и Visual Studio Code](https://docs.microsoft.com/ru-ru/learn/modules/build-blazor-webassembly-visual-studio-code/)
 * [Улучшения нового редактора Razor в Visual Studio](https://habr.com/ru/company/microsoft/blog/539514/)
 * [CRUD на blazor с entity framework core](https://codewithmukesh.com/blog/blazor-crud-with-entity-framework-core/)
+* [Базовый JavaScript](https://learn.javascript.ru/)
 
 
 **Library**

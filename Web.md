@@ -20,6 +20,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Улучшения нового редактора Razor в Visual Studio](https://habr.com/ru/company/microsoft/blog/539514/)
 * [CRUD на blazor с entity framework core](https://codewithmukesh.com/blog/blazor-crud-with-entity-framework-core/)
 * [Базовый JavaScript](https://learn.javascript.ru/)
+* [Документация Bootstrap 5: введение, компоненты](https://bootstrap-4.ru/docs/5.0/getting-started/introduction/)
 
 
 **Library**

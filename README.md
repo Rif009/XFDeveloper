@@ -17,6 +17,7 @@
 **Xaml**
 ------------
 - [Рисуем UI в Xamarin.Forms с помощью Shapes и Paths](https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/?WT.mc_id=docs-blog-daortin)
+- [Структура безопасного макета области в iOS](https://docs.microsoft.com/ru-ru/xamarin/xamarin-forms/platform/ios/page-safe-area-layout)
 
 **Library**
 ------------

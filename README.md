@@ -31,6 +31,9 @@
 - [AiForms.Dialogs - набор настраиваемых диалоговых окон](https://github.com/muak/AiForms.Dialogs "AiForms.Dialogs - набор настраиваемых диалоговых окон")
 - [Shiny - плагин для фоновой обработки и аппаратных служб устройства](https://github.com/shinyorg/shiny "Shiny - плагин для фоновой обработки и аппаратных служб устройства")
 - [Кастомные тени](https://github.com/roubachof/Sharpnado.Shadows)
+- [Media Plugin - плагин, позволяющий снимать фото и видео или выбирать их из галереи из общего кода.](https://github.com/jamesmontemagno/MediaPlugin)
+- [KeyboardHelper - простой хелпер для работы с клавиатурой](https://github.com/masonyc/Xamarin.KeyboardHelper)
+- [TemplateUI - набор шаблонных элементов управления](https://github.com/jsuarezruiz/TemplateUI)
 
 **Tools**
 ------------

@@ -13,6 +13,7 @@
 - [Про новинки в .NET 5 и C# 9.0](https://habr.com/ru/post/523552/ "Про новинки в .NET 5 и C# 9.0")
 - [C# 8 и null-допустимость. Как нам с этим жить](https://habr.com/ru/company/piter/blog/501520/ "C# 8 и null-допустимость. Как нам с этим жить")
 - [Для бенчмарков кода](https://github.com/dotnet/BenchmarkDotNet "Для бенчмарков кода")
+- [Что такое yield и как он работает в C#?](https://github.com/dotnet/BenchmarkDotNet "Что такое yield и как он работает в C#?")
 
 **Xaml**
 ------------

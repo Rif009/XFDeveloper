@@ -7,6 +7,7 @@
 - [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/ "Руководство по программированию для Xamarin Forms")
 - [MICROSOFT LEARN уроки с примерами](https://docs.microsoft.com/ru-ru/learn/browse/?expanded=dotnet&products=dotnet "MICROSOFT LEARN уроки с примерами")
 - [Xamarin.Forms 5.0 уже здесь, уже доступен](https://habr.com/ru/company/microsoft/blog/536876/)
+- [Привязка библиотеки Java](https://docs.microsoft.com/ru-ru/xamarin/android/platform/binding-java-library/)
 
 **C#**
 ------------
@@ -35,6 +36,7 @@
 - [Media Plugin - плагин, позволяющий снимать фото и видео или выбирать их из галереи из общего кода.](https://github.com/jamesmontemagno/MediaPlugin)
 - [KeyboardHelper - простой хелпер для работы с клавиатурой](https://github.com/masonyc/Xamarin.KeyboardHelper)
 - [TemplateUI - набор шаблонных элементов управления](https://github.com/jsuarezruiz/TemplateUI)
+- [Rg.Plugins.Popup - Popup страницы](https://github.com/rotorgames/Rg.Plugins.Popup) 
 
 **Tools**
 ------------

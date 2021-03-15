@@ -8,6 +8,7 @@
 - [MICROSOFT LEARN уроки с примерами](https://docs.microsoft.com/ru-ru/learn/browse/?expanded=dotnet&products=dotnet "MICROSOFT LEARN уроки с примерами")
 - [Xamarin.Forms 5.0 уже здесь, уже доступен](https://habr.com/ru/company/microsoft/blog/536876/)
 - [Привязка библиотеки Java](https://docs.microsoft.com/ru-ru/xamarin/android/platform/binding-java-library/)
+- [Документация по Xamarin Community Toolkit](https://docs.microsoft.com/ru-ru/xamarin/community-toolkit/?WT.mc_id=xamarin-c9-jamont)
 
 **C#**
 ------------

@@ -25,7 +25,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 
 **Library**
 ------------
-* [Notifications (Уведомления в браузере)](https://github.com/Append-IT/Blazor.Notifications)
+* [Notifications (Уведомления в браузере)](https://github.com/moonolgerd/Blazor.Notifications)
 
 
 

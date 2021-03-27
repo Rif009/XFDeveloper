@@ -9,6 +9,9 @@
 - [Xamarin.Forms 5.0 уже здесь, уже доступен](https://habr.com/ru/company/microsoft/blog/536876/)
 - [Привязка библиотеки Java](https://docs.microsoft.com/ru-ru/xamarin/android/platform/binding-java-library/)
 - [Документация по Xamarin Community Toolkit](https://docs.microsoft.com/ru-ru/xamarin/community-toolkit/?WT.mc_id=xamarin-c9-jamont)
+- [SkiaSharp графика в Xamarin.Forms](https://docs.microsoft.com/ru-ru/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
+- [GradientProgressBar: Accepting touch input Skiasharp](https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/)
+- [Xamarin.Forms + SkiaSharp: Create Awesome Cross-Platform Animations in Your Mobile App](https://www.telerik.com/blogs/xamarinforms-skiasharp-create-awesome-cross-platform-animations-in-your-mobile-app)
 
 **C#**
 ------------

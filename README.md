@@ -65,5 +65,6 @@
 - [Понятнее о S.O.L.I.D](https://habr.com/ru/post/508086/ "Понятнее о S.O.L.I.D")
 - [GradientProgressBar: С рапознованием сенсорного ввода Skiasharp](https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/)
 - [Xamarin.Forms + SkiaSharp: Создание потрясающей кросc-платформенной анимации](https://www.telerik.com/blogs/xamarinforms-skiasharp-create-awesome-cross-platform-animations-in-your-mobile-app)
+- [Анимация перехода страниц](https://xamgirl.com/animating-page-transitions-in-xamarin-forms/)
 
 

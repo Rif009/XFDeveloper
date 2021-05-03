@@ -19,6 +19,7 @@
 - [Для бенчмарков кода](https://github.com/dotnet/BenchmarkDotNet "Для бенчмарков кода")
 - [Что такое yield и как он работает в C#?](https://habr.com/ru/company/pvs-studio/blog/545462/ "Что такое yield и как он работает в C#?")
 - [Старые-новые фичи C#. Какие из них пригодятся в любом проекте](https://habr.com/ru/company/nix/blog/541760/ "Старые-новые фичи C#. Какие из них пригодятся в любом проекте")
+- [Новые возможности C# 9.0](https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-9 "Новые возможности C# 9.0")
 
 **Xaml**
 ------------

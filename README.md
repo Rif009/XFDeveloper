@@ -12,6 +12,7 @@
 - [SkiaSharp графика в Xamarin.Forms](https://docs.microsoft.com/ru-ru/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
 
 
+
 **C#**
 ------------
 - [Про новинки в .NET 5 и C# 9.0](https://habr.com/ru/post/523552/ "Про новинки в .NET 5 и C# 9.0")
@@ -20,6 +21,7 @@
 - [Что такое yield и как он работает в C#?](https://habr.com/ru/company/pvs-studio/blog/545462/ "Что такое yield и как он работает в C#?")
 - [Старые-новые фичи C#. Какие из них пригодятся в любом проекте](https://habr.com/ru/company/nix/blog/541760/ "Старые-новые фичи C#. Какие из них пригодятся в любом проекте")
 - [Новые возможности C# 9.0](https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-9 "Новые возможности C# 9.0")
+- [Популярные заблуждения о C#](https://habr.com/ru/post/541786/)
 
 **Xaml**
 ------------

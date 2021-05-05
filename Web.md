@@ -38,7 +38,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Документация по ASP.NET](https://docs.microsoft.com/ru-ru/aspnet/core/?view=aspnetcore-5.0)
 * [Разница между AddTransient, AddScoped и AddSingleton в ASP.NET Core](https://habr.com/ru/company/otus/blog/539762/)
 * [Шаблон издателя и подписчика](https://docs.microsoft.com/ru-ru/azure/architecture/patterns/publisher-subscriber)
-* 
+* [Что такое API](https://habr.com/ru/post/464261/)
 
 **Library**
 ------------
@@ -55,6 +55,8 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 **Tools**
 ------------
 * [Fiddler = удобный сниффер + прокси сервер](https://habr.com/ru/post/554562/)
+* [Postman — как инструмент тестирования API](https://www.postman.com)
+* [Nightingale rest client](https://nightingale.rest)
 
 
 

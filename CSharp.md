@@ -13,7 +13,8 @@
 **Library**
 ------------
 - [Библиотека для работы с word/excel](https://github.com/nissl-lab/npoi/wiki/Getting-Started-with-NPOI "Библиотека для работы с word/excel")
-
+- [Библиотека для создания красивых консольных приложений](https://github.com/spectreconsole/spectre.console)
+- [Библиотека для парсинга аргументов командной строки](https://github.com/commandlineparser/commandline)
 
 
 **Познавательные сайты/статьи**

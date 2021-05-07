@@ -44,6 +44,8 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 **Library**
 ------------
 * [Serilog библиотека для логирования](https://github.com/serilog/serilog)
+* [ASP.NET API Versioning](https://www.hanselman.com/blog/aspnet-core-restful-web-api-versioning-made-easy)
+* [Unchase Swashbuckle Asp.Net Core Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions)
 
 * Фоновые процессы
     1. https://www.quartz-scheduler.net

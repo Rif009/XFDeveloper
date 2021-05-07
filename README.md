@@ -10,6 +10,7 @@
 - [Привязка библиотеки Java](https://docs.microsoft.com/ru-ru/xamarin/android/platform/binding-java-library/)
 - [Документация по Xamarin Community Toolkit](https://docs.microsoft.com/ru-ru/xamarin/community-toolkit/?WT.mc_id=xamarin-c9-jamont)
 - [SkiaSharp графика в Xamarin.Forms](https://docs.microsoft.com/ru-ru/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
+- [CollectionView Drag & Drop](https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/)
 
 
 **Xaml**

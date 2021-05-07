@@ -43,6 +43,8 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 
 **Library**
 ------------
+* [Serilog библиотека для логирования](https://github.com/serilog/serilog)
+
 * Фоновые процессы
     1. https://www.quartz-scheduler.net
     2. https://www.hangfire.io

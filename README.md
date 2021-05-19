@@ -31,7 +31,7 @@
 - [KeyboardHelper - простой хелпер для работы с клавиатурой](https://github.com/masonyc/Xamarin.KeyboardHelper)
 - [TemplateUI - набор шаблонных элементов управления](https://github.com/jsuarezruiz/TemplateUI)
 - [Rg.Plugins.Popup - Popup страницы](https://github.com/rotorgames/Rg.Plugins.Popup) 
-- [FFImageLoading - для быстрой загрузки изображений](https://github.com/rotorgames/Rg.Plugins.Popup) 
+- [FFImageLoading - для быстрой загрузки изображений](https://github.com/luberda-molinet/FFImageLoading) 
 - [SkiaSharp - кроссплатформенный API для 2D-графики](https://github.com/mono/SkiaSharp) 
 - [Xamarin Forms Audio Recorder Library](https://github.com/nightlybuilds-net/nightly.xam.audiorecorder) 
 - [Calendar control for Xamarin.Forms](https://github.com/DamianAntonowicz/XamarinForms.CalendarControl) 

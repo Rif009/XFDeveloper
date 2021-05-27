@@ -49,6 +49,8 @@
 ------------
 - [Xamarin Developers - канал разработчиков xamarin](https://www.youtube.com/c/XamarinDevelopers/videos "Xamarin Developers - канал разработчиков xamarin")
 - [60 секундные туториалы по xamarin forms](https://www.youtube.com/playlist?list=PLrkKvY7K4dLWNQQlJAlf6CgVt5hDtU4Xb "60 секундные туториалы по xamarin forms")
+- [Канал James Montemagno xamarin team](https://www.youtube.com/c/JamesMontemagno/videos "Канал James Montemagno xamarin team")
+- [Канал Gerald Versluis xamarin team](https://www.youtube.com/c/GeraldVersluis/videos "Канал Gerald Versluis xamarin team")
 
 **Познавательные сайты/статьи**
 ------------

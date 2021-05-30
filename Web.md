@@ -40,6 +40,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Шаблон издателя и подписчика](https://docs.microsoft.com/ru-ru/azure/architecture/patterns/publisher-subscriber)
 * [Что такое API](https://habr.com/ru/post/464261/)
 * [Что из себя представляет класс Startup и Program.cs в ASP.NET Core](https://habr.com/ru/company/otus/blog/542494/)
+* [О классах Program и Startup — инициализация ASP.NET приложения. Часть I: Program и IHostBuilder](https://habr.com/ru/post/559888/)
 
 **Library**
 ------------

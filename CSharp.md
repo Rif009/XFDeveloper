@@ -32,3 +32,5 @@
 ------------
 
 - [dotNET - Канал посвященный обновлениям dotnet](https://www.youtube.com/c/dotNET/videos "dotNET - Канал посвященный обновлениям dotnet")
+- [Подкасты - DotNetRu](https://www.youtube.com/c/DotNetRu/videos)
+- [DotNet & More Подкаст](https://www.youtube.com/channel/UCCangFtmypr2MmiULHquf2A/videos)

@@ -11,6 +11,7 @@
 - [Документация по Xamarin Community Toolkit](https://docs.microsoft.com/ru-ru/xamarin/community-toolkit/?WT.mc_id=xamarin-c9-jamont)
 - [SkiaSharp графика в Xamarin.Forms](https://docs.microsoft.com/ru-ru/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
 - [CollectionView Drag & Drop](https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/)
+- [Создание прекрасных приложений с помощью Xamarin.Forms](https://habr.com/ru/company/microsoft/blog/561440/)
 
 
 **Xaml**
@@ -37,7 +38,8 @@
 - [Calendar control for Xamarin.Forms](https://github.com/DamianAntonowicz/XamarinForms.CalendarControl) 
 - [Xamarin.MediaGallery - выбор/сохранение видео/фото в галереи](https://github.com/dimonovdd/Xamarin.MediaGallery) 
 - [ContextMenu-контекстное меню](https://github.com/AndreiMisiukevich/ContextMenu) 
-
+- [ContextMenuContainer-контекстное меню для view](https://github.com/anpin/ContextMenuContainer) 
+- 
 **Tools**
 ------------
 - [Расширение для VS, которое чистит xamarin проект от временных файлов ](https://marketplace.visualstudio.com/items?itemName=Sameerk.BruteClean "Расширение для VS, которое чистит xamarin проект от временных файлов ")

@@ -39,7 +39,7 @@
 - [Xamarin.MediaGallery - выбор/сохранение видео/фото в галереи](https://github.com/dimonovdd/Xamarin.MediaGallery) 
 - [ContextMenu-контекстное меню](https://github.com/AndreiMisiukevich/ContextMenu) 
 - [ContextMenuContainer-контекстное меню для view](https://github.com/anpin/ContextMenuContainer) 
-- 
+
 **Tools**
 ------------
 - [Расширение для VS, которое чистит xamarin проект от временных файлов ](https://marketplace.visualstudio.com/items?itemName=Sameerk.BruteClean "Расширение для VS, которое чистит xamarin проект от временных файлов ")
@@ -64,5 +64,6 @@
 - [GradientProgressBar: С рапознованием сенсорного ввода Skiasharp](https://somostechies.com/gradientprogressbar-accepting-touch-input-skiasharp/)
 - [Xamarin.Forms + SkiaSharp: Создание потрясающей кросc-платформенной анимации](https://www.telerik.com/blogs/xamarinforms-skiasharp-create-awesome-cross-platform-animations-in-your-mobile-app)
 - [Анимация перехода страниц](https://xamgirl.com/animating-page-transitions-in-xamarin-forms/)
+- [xamarinexpert - Блог с гайдами и плагинами](https://www.xamarinexpert.it)
 
 

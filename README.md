@@ -46,6 +46,7 @@
 - [Ngrok- сервис для создания туннеля между интернетом и localhost](https://ngrok.com "Ngrok- сервис для создания туннеля между интернетом и localhost")
 - [PropertyChanged.Fody-плагин для fody для генерации INotifyPropertyChanged](https://github.com/Fody/PropertyChanged)
 - [XAML Styler - Расширение для VS,форматирование xaml ](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) 
+- [XamRight - плагин, упрощающий разработку Xamarin и сокращает цикл отладки](https://marketplace.visualstudio.com/items?itemName=criticalhittech.xamrightext)
 
 **Познавательные Youtube каналы/видео**
 ------------

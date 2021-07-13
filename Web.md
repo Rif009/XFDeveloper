@@ -64,6 +64,10 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Postman — как инструмент тестирования API](https://www.postman.com)
 * [Nightingale rest client](https://nightingale.rest)
 
+**Познавательные сайты/статьи**
+-----------
+* [Авторизация Windows в браузере (Blazor)](https://vaibhavbhapkarblogs.medium.com/windows-authentication-authorization-in-blazor-application-144d23dd90be)
+
 
 
 

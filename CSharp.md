@@ -7,7 +7,10 @@
 - [Старые-новые фичи C#. Какие из них пригодятся в любом проекте](https://habr.com/ru/company/nix/blog/541760/ "Старые-новые фичи C#. Какие из них пригодятся в любом проекте")
 - [Новые возможности C# 9.0](https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/csharp-9 "Новые возможности C# 9.0")
 - [Популярные заблуждения о C#](https://habr.com/ru/post/541786/)
-
+- [Что нового в .NET 6?](https://habr.com/ru/post/573434/)
+- [Продвинутое руководство по nullable reference types](https://habr.com/ru/company/jugru/blog/571728/)
+- [Записи — новый ссылочный тип, который можно создать вместо классов или структур (Microsoft Docs)](https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/tutorials/records)
+- [Записи — новый ссылочный тип, который можно создать вместо классов или структур (Metanit)](https://metanit.com/sharp/tutorial/3.51.php)
 
 
 **Library**

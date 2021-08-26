@@ -38,7 +38,8 @@
 - [Calendar control for Xamarin.Forms](https://github.com/DamianAntonowicz/XamarinForms.CalendarControl) 
 - [Xamarin.MediaGallery - выбор/сохранение видео/фото в галереи](https://github.com/dimonovdd/Xamarin.MediaGallery) 
 - [ContextMenu-контекстное меню](https://github.com/AndreiMisiukevich/ContextMenu) 
-- [ContextMenuContainer-контекстное меню для view](https://github.com/anpin/ContextMenuContainer) 
+- [ContextMenuContainer-контекстное меню для view](https://github.com/anpin/ContextMenuContainer)
+- [Microcharts: Create cross-platform - плагин для построения графиков в Xamarin Forms](https://github.com/microcharts-dotnet/Microcharts)
 
 **Tools**
 ------------

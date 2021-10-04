@@ -67,5 +67,6 @@
 - [Xamarin.Forms + SkiaSharp: Создание потрясающей кросc-платформенной анимации](https://www.telerik.com/blogs/xamarinforms-skiasharp-create-awesome-cross-platform-animations-in-your-mobile-app)
 - [Анимация перехода страниц](https://xamgirl.com/animating-page-transitions-in-xamarin-forms/)
 - [xamarinexpert - Блог с гайдами и плагинами](https://www.xamarinexpert.it)
+- [C#: Автоматизация Android без посредников adb](https://habr.com/ru/post/581252/)
 
 

@@ -68,5 +68,6 @@
 - [Анимация перехода страниц](https://xamgirl.com/animating-page-transitions-in-xamarin-forms/)
 - [xamarinexpert - Блог с гайдами и плагинами](https://www.xamarinexpert.it)
 - [C#: Автоматизация Android без посредников adb](https://habr.com/ru/post/581252/)
+- [Ускоряемся в Entity Framework Core](https://habr.com/ru/post/487734/)
 
 

@@ -11,7 +11,7 @@
 - [Продвинутое руководство по nullable reference types](https://habr.com/ru/company/jugru/blog/571728/)
 - [Записи — новый ссылочный тип, который можно создать вместо классов или структур (Microsoft Docs)](https://docs.microsoft.com/ru-ru/dotnet/csharp/whats-new/tutorials/records)
 - [Записи — новый ссылочный тип, который можно создать вместо классов или структур (Metanit)](https://metanit.com/sharp/tutorial/3.51.php)
-
+- [Сборщик мусора в .NET](https://habr.com/ru/search/?q=%5Bgarbage%20collector%5D%20%5B.NET%5D&target_type=posts&order=relevance)
 
 **Library**
 ------------

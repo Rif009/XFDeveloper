@@ -12,6 +12,7 @@
 - [SkiaSharp графика в Xamarin.Forms](https://docs.microsoft.com/ru-ru/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
 - [CollectionView Drag & Drop](https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/)
 - [Создание прекрасных приложений с помощью Xamarin.Forms](https://habr.com/ru/company/microsoft/blog/561440/)
+- [https://blog.okyrylchuk.dev/linq-improvements-in-net-6](New LINQ improvements in .NET 6)
 
 
 **Xaml**

@@ -22,6 +22,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Базовый JavaScript](https://learn.javascript.ru/)
 * [Документация Bootstrap 5: введение, компоненты](https://bootstrap-4.ru/docs/5.0/getting-started/introduction/)
 * [Что такое JSON](https://habr.com/ru/post/554274/)
+* [Blazor WebAssembly: динамическое создание компонентов по JSON описанию](https://habr.com/ru/post/577174/)
 
 
 **Library**

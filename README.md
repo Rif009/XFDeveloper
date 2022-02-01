@@ -41,6 +41,7 @@
 - [ContextMenu-контекстное меню](https://github.com/AndreiMisiukevich/ContextMenu) 
 - [ContextMenuContainer-контекстное меню для view](https://github.com/anpin/ContextMenuContainer)
 - [Microcharts: Create cross-platform - плагин для построения графиков в Xamarin Forms](https://github.com/microcharts-dotnet/Microcharts)
+- [XCalendar - плагин календаря в Xamarin Forms](https://github.com/ME-MarvinE/XCalendar)
 
 **Tools**
 ------------

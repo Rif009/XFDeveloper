@@ -44,6 +44,9 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Что из себя представляет класс Startup и Program.cs в ASP.NET Core](https://habr.com/ru/company/otus/blog/542494/)
 * [О классах Program и Startup — инициализация ASP.NET приложения. Часть I: Program и IHostBuilder](https://habr.com/ru/post/559888/)
 * [GraphQL: как сделать бэкенд приложения экономнее и быстрее](https://habr.com/ru/company/rshb/blog/593115/)
+* [Версионирование API в ASP.Net Core](https://habr.com/ru/post/649827/)
+* [Конфигурация сущностей в EF Core](https://habr.com/ru/post/649647/)
+* [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/post/649645/)
 
 **Library**
 ------------
@@ -58,7 +61,8 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * RabbitMQ
     1.  [Обзор возможностей RabbitMQ в .Net Core](https://www.youtube.com/watch?v=VbPRlOrFf54)
     2.  [Реализация шины событий с помощью RabbitMQ для среды разработки или тестирования](https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/multi-container-microservice-net-applications/rabbitmq-event-bus-development-test-environment)
-    3.  Реализации RabbitMQ для .net core
+    3.  [RabbitMQ в ASP.NET Core. Быстрый старт](https://habr.com/ru/post/649915/)
+    4.  Реализации RabbitMQ для .net core
         1. https://masstransit-project.com
         2. https://easynetq.com
 

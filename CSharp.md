@@ -13,6 +13,9 @@
 - [Записи — новый ссылочный тип, который можно создать вместо классов или структур (Metanit)](https://metanit.com/sharp/tutorial/3.51.php)
 - [Сборщик мусора в .NET](https://habr.com/ru/search/?q=%5Bgarbage%20collector%5D%20%5B.NET%5D&target_type=posts&order=relevance)
 - [Диапазоны (Ranges) в C# 8](https://habr.com/ru/post/651171/)
+- [Предикаты поиска](https://habr.com/ru/post/655555/)
+- [О Thread и ThreadPool в .NET подробно (часть 1)](https://habr.com/ru/post/654101/)
+- [О Thread и ThreadPool в .NET подробно (часть 2)](https://habr.com/ru/post/654111/)
 
 **Library**
 ------------

@@ -72,6 +72,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Postman — как инструмент тестирования API](https://www.postman.com)
 * [Nightingale rest client](https://nightingale.rest)
 * [ElectronNET/Electron.NET: создавайте кроссплатформенные настольные приложения с помощью ASP.NET Core.](https://github.com/ElectronNET/Electron.NET)
+* [Генератор favicon для всех платформ](https://realfavicongenerator.net/)
 
 **Познавательные сайты/статьи**
 -----------

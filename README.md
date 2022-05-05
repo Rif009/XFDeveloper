@@ -13,6 +13,7 @@
 - [CollectionView Drag & Drop](https://devblogs.microsoft.com/xamarin/collectionview-drag-and-drop/)
 - [Создание прекрасных приложений с помощью Xamarin.Forms](https://habr.com/ru/company/microsoft/blog/561440/)
 - [New LINQ improvements in .NET 6](https://blog.okyrylchuk.dev/linq-improvements-in-net-6)
+- [Исчерпывающий видеокурс: структуры данных C#](https://proglib.io/p/video-kurs-struktury-dannyh-c-2019-09-09)
 
 
 **Xaml**

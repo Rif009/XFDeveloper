@@ -1,1 +1,1 @@
-
+- [.NET MAUI community standup May 2022](https://www.theurlist.com/maui-standup-may2022)

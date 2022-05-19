@@ -1,6 +1,6 @@
 # Справочник Xamarin Forms разработчика
 
-[[C#]](https://github.com/Rif009/XFDeveloper/blob/master/CSharp.md) [[Web]](https://github.com/Rif009/XFDeveloper/blob/master/Web.md)
+[[C#]](https://github.com/Rif009/XFDeveloper/blob/master/CSharp.md) [[Web]](https://github.com/Rif009/XFDeveloper/blob/master/Web.md) [[MAUI]](https://github.com/Rif009/XFDeveloper/blob/master/MAUI.md)
 
 **Learning**
 ------------

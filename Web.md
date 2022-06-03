@@ -51,6 +51,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 **Library**
 ------------
 * [Serilog библиотека для логирования](https://github.com/serilog/serilog)
+* [Print and Save files in Blazor using the native dialog box using JavaScript Interop and PrintJS.](https://github.com/Append-IT/Blazor.Printing)
 * [ASP.NET API Versioning](https://www.hanselman.com/blog/aspnet-core-restful-web-api-versioning-made-easy)
 * [Unchase Swashbuckle Asp.Net Core Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions)
 * [FeatureManagement-Dotnet - это стандартизированные API-интерфейсы для включения флагов функций в приложениях.](https://github.com/microsoft/FeatureManagement-Dotnet)

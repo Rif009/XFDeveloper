@@ -1,3 +1,4 @@
 - [.NET MAUI community standup May 2022](https://www.theurlist.com/maui-standup-may2022)
 - [How To Disable both Navigation Bar Back Button and Physical android back button](https://www.theurlist.com/maui-standup-may2022)
 - [Познавательные статьи от главного программного менеджера Microsoft](https://dev.to/davidortinau)
+- [Серия полезных и не очень решений для MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)

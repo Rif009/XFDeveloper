@@ -24,7 +24,7 @@ asp.net core mvc/web api, ef core, SignalR, IdentityServer, Blazor wasm, Docker,
 * [Что такое JSON](https://habr.com/ru/post/554274/)
 * [Blazor WebAssembly: динамическое создание компонентов по JSON описанию](https://habr.com/ru/post/577174/)
 * [Как сохранять данные в браузере, или краткий гайд по LocalStorage](https://habr.com/ru/post/647359/)
-
+* [Использование NPM в Blazor](https://brianlagunas.com/using-npm-packages-in-blazor/)
 
 **Library**
 ------------
